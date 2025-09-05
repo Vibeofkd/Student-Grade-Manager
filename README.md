@@ -1,5 +1,4 @@
-# Student-Grade-Manager
-# Student Grades Manager (JS Basics)
+
 # Student Grades Manager (JS Basics)
 
 This is a simple Node.js project to demonstrate JavaScript fundamentals learned in Week 1 of my internship.
